@@ -7,7 +7,7 @@ Clone eller download repoet.
 
 Åben filen `cards.html` i din browser. 
 
-Øverst på siden findet et input-felt til en fil. Tryk på `vælg fil` eller hvad der nu står, og vælg en fil, f.eks. `fyld.txt`. 
+Øverst på siden findet et input-felt til en fil. Tryk på `vælg fil` eller hvad der nu står, og vælg en fil, f.eks. `fillers.txt`. 
 
 Hjemmesiden genererer nu et layout for hjemmesiden, hvor hver linje af input filen bliver placeret i et felt på hjemmesiden, klar til udskrift. 
 
